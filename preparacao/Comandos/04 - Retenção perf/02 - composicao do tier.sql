@@ -1,4 +1,3 @@
--- Q10. Composição de tier em junho
 SELECT
     g.grupo,
     COUNT(*) FILTER (WHERE t.tier_simulation = 'Diamante') AS diamante,
