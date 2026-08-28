@@ -1,4 +1,3 @@
--- Q04. DiD consolidado
 WITH base AS (
     SELECT
         g.grupo,
