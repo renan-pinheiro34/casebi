@@ -1,7 +1,6 @@
 # Programa Super — avaliação do piloto de incentivos
 
-Case de Inteligência Analítica e Retenção. Avaliação do piloto rodado em
-Campinas-SP: **R$ 175 a cada 50 pedidos acumulados no mês, com teto de R$ 1.100**.
+Avaliação do piloto rodado em Campinas-SP: **R$ 175 a cada 50 pedidos acumulados no mês, com teto de R$ 1.100**.
 
 Baseline: 4 semanas de maio/2026. Piloto: 4 semanas de junho/2026.
 
