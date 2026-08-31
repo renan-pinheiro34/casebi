@@ -174,9 +174,3 @@ Escada de entrada mantendo R$ 3,50 por pedido, o mesmo preço unitário do Super
 | Prata | 40 | R$ 150 | 100 | 10 | +90 |
 | → Super | 50 | R$ 175 | 9 | 3 | +6 |
 
-**Custo: R$ 312.750** — 17% do orçamento atual do Super, para alcançar 4.021
-pessoas em vez de 9.
-
-A justificativa é comportamento já documentado: 2.470 pessoas a mais chegaram a
-20 pedidos **sabendo que não ganhariam nada**. A escada apenas coloca o prêmio
-onde o movimento acontece, e cria degraus intermediários até o Super.
