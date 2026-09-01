@@ -50,8 +50,7 @@ Numeradas na ordem da análise. Cada pasta corresponde a uma etapa do raciocíni
 
 ```
 sql/
-├── 00_setup/                       criação das tabelas e carga
-├── 01_validade/                    os grupos são comparáveis?
+├── 01_cobertura do teste/                    drivers em teste e comparação entre os grupos
 ├── 02_performance/                 o piloto teve efeito?
 ├── 03_sustentacao/                 o efeito se manteve nas 4 semanas?
 ├── 04_conversao/                   a base converteu? para onde foi o custo?
