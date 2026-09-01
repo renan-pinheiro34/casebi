@@ -94,8 +94,7 @@ contra 16,67% no controle — oito pessoas de diferença em 14.339.
 
 O motivo aparece na distribuição: a base é bimodal. 82,5% faz até 29 pedidos por
 mês e 15,6% faz mais de 100. Entre as duas populações há um vazio, e o desafio de
-50 pedidos foi ancorado exatamente ali. **Na faixa de 50 a 59 pedidos havia uma
-pessoa em 14.339 no baseline.**
+50 pedidos foi ancorado exatamente ali.
 
 ### 3. O dinheiro seguiu o tier, não o esforço
 
